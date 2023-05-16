@@ -1,0 +1,179 @@
+.microsoftteams-image-1-icon {
+  position: absolute;
+  height: 100%;
+  width: 35.09%;
+  top: 0;
+  right: 64.91%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.learnzy1 {
+  position: absolute;
+  top: 29.63%;
+  left: 39.04%;
+  letter-spacing: 0.09em;
+  font-weight: 700;
+}
+.about1,
+.logo {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.logo {
+  height: 100%;
+  width: 17%;
+  right: 83%;
+  bottom: 0;
+}
+.about1 {
+  text-decoration: none;
+  letter-spacing: 0.09em;
+  font-weight: 700;
+  color: inherit;
+}
+.about,
+.why-us1 {
+  height: 100%;
+  left: 0;
+}
+.about {
+  position: absolute;
+  width: 18.58%;
+  top: 0;
+  right: 81.42%;
+  bottom: 0;
+}
+.why-us1 {
+  width: 100%;
+  letter-spacing: 0.09em;
+  display: inline-block;
+}
+.contact1,
+.why-us,
+.why-us1 {
+  position: absolute;
+  top: 0;
+}
+.why-us {
+  height: 100%;
+  width: 22.4%;
+  right: 42.08%;
+  bottom: 0;
+  left: 35.52%;
+}
+.contact1 {
+  left: 0;
+  letter-spacing: 0.09em;
+  font-weight: 700;
+}
+.contact,
+.navigations {
+  position: absolute;
+  height: 100%;
+  width: 25.14%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 58.86%;
+}
+.navigations {
+  height: 27.91%;
+  width: 27.29%;
+  top: 34.88%;
+  right: 40.57%;
+  bottom: 37.21%;
+  left: 32.14%;
+  font-size: var(--font-size-xl);
+}
+.student-loginsignup-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-cornflowerblue);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-10xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.start-learning {
+  text-decoration: none;
+  position: absolute;
+  height: 52.54%;
+  width: 91.24%;
+  top: 23.73%;
+  left: 4.12%;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.09em;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: var(--font-caladea);
+  color: var(--color-black);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.student-loginsignup,
+.tutor-loginsignup,
+.tutor-loginsignup-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.student-loginsignup {
+  background-color: transparent;
+  width: 43.11%;
+  right: 56.89%;
+  left: 0;
+}
+.tutor-loginsignup,
+.tutor-loginsignup-child {
+  right: 0;
+}
+.tutor-loginsignup-child {
+  background-color: var(--color-plum);
+  width: 100%;
+  left: 0;
+  border-radius: var(--br-10xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.tutor-loginsignup {
+  background-color: transparent;
+  width: 43.11%;
+  left: 56.89%;
+}
+.loinsignup {
+  position: absolute;
+  height: 68.6%;
+  width: 33.56%;
+  top: 15.7%;
+  right: 0;
+  bottom: 15.7%;
+  left: 66.44%;
+}
+.navbar {
+  position: absolute;
+  top: 23px;
+  left: 54px;
+  width: 1341px;
+  height: 86px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+
+}

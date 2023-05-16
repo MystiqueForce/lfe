@@ -1,0 +1,465 @@
+.frame-child {
+  position: absolute;
+  top: 94px;
+  left: calc(50% - 233px);
+  border-radius: 20px;
+  width: 465px;
+  height: 768px;
+}
+.frame-child-t {
+  position: absolute;
+  
+  left: calc(50% - 233px);
+  border-radius: 20px;
+  width: 465px;
+  height: 1068px;
+}
+.microsoftteams-image-2-1 {
+  position: absolute;
+  top: 137px;
+  left: calc(50% - 168px);
+  width: 310px;
+  height: 82px;
+  object-fit: cover;
+}
+
+.microsoftteams-image-2-11 {
+  position: relative;
+  top: 177px;
+  left: calc(50% - 168px);
+  width: 310px;
+  height: 82px;
+  object-fit: cover;
+}
+.as-tutor,
+.sign-in {
+  position: absolute;
+  left: calc(50% - 189px);
+}
+.sign-in {
+  top: 287px;
+  font-size: 36px;
+  display: inline-block;
+  color: #9ba9ff;
+  width: 330px;
+  height: 31px;
+}
+.as-tutor {
+  top: 320px;
+  font-size: 24px;
+  font-weight: 600;
+}
+.icon-greencheck-child,
+.input1 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.input1 {
+  border: 1px solid #e1e1e1;
+  background-color: #f5f5f5;
+  height: 63.16%;
+  top: 36.84%;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+.inpute {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.inpute {
+  border: 1px solid #e1e1e1;
+  background-color: #f5f5f5;
+  height: 63.16%;
+  top: 36.84%;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.inputp {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.inputp {
+  border: 1px solid #e1e1e1;
+  background-color: #f5f5f5;
+  height: 63.16%;
+  top: 36.84%;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+.inputcp {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.inputcp {
+  border: 1px solid #e1e1e1;
+  background-color: #f5f5f5;
+  height: 63.16%;
+  top: 36.84%;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+.inputa {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.inputa {
+  border: 1px solid #e1e1e1;
+  background-color: #f5f5f5;
+  height: 63.16%;
+  top: 36.84%;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+.icon-greencheck-child {
+  border: 0;
+  background-color: transparent;
+  height: 100%;
+  top: 0;
+}
+.icon-greencheck {
+  height: 63.16%;
+  width: 14.04%;
+  top: 36.84%;
+  right: 0;
+  bottom: 0;
+  left: 85.96%;
+}
+.email,
+.icon-greencheck,
+.input {
+  position: absolute;
+}
+.email {
+  width: 83.92%;
+  top: 1.32%;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  backdrop-filter: blur(4px);
+}
+.input {
+  top: 369px;
+  left: calc(50% - 189px);
+  width: 342px;
+  height: 76px;
+}
+.button-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: #9ba9ff;
+}
+.button-child-s {
+  height: 100%;
+  width: 100%;
+  top: 10px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: #9ba9ff;
+}
+.button-child-t {
+  height: 100%;
+  width: 100%;
+    top: 850px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: #9ba9ff;
+}
+
+.button-child11 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: #9ba9ff;
+}
+
+.button,
+.button-child,
+.log-in {
+  position: absolute;
+}
+
+.button-t,
+.button-child,
+.log-in {
+  position: absolute;
+}
+.button11,
+.button-child11,
+.log-in11 {
+  position: absolute;
+}
+
+.log-in {
+  width: 67.25%;
+  top: 27.08%;
+  left: 16.37%;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Plus Jakarta Sans";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+
+.log-in11 {
+  width: 67.25%;
+  top: 27.08%;
+  left: 16.37%;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Plus Jakarta Sans";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 602px;
+  left: calc(50% - 184px);
+  border-radius: 8px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 342px;
+  height: 48px;
+}
+
+.button-t {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 840px;
+  left: calc(50% - 184px);
+  border-radius: 8px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 342px;
+  height: 48px;
+}
+
+.button11 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 602px;
+  left: calc(50% - 184px);
+  border-radius: 8px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 342px;
+  height: 48px;
+}
+
+.buttonsrtoke-ikonredactiv-child,
+.icon-googl {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.buttonsrtoke-ikonredactiv-child {
+  width: 100%;
+  right: 0;
+  border-radius: 8px;
+  border: 1px solid #4280ef;
+  box-sizing: border-box;
+}
+.icon-googl {
+  width: 11.59%;
+  right: 88.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sign-in-with {
+  margin: 0;
+}
+.sign-in-with-container {
+  position: absolute;
+  height: 70.83%;
+  width: 84.06%;
+  top: 4.17%;
+  left: 15.94%;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Plus Jakarta Sans";
+  color: #4280ef;
+  text-align: left;
+  display: inline-block;
+}
+.labelicon {
+  position: absolute;
+  height: 50%;
+  width: 60.53%;
+  top: 25%;
+  right: 15.5%;
+  bottom: 25%;
+  left: 23.98%;
+}
+.buttonsrtoke-ikonredactiv {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #fff;
+  position: absolute;
+  top: 750px;
+  left: calc(50% - 184px);
+  border-radius: 10px;
+  width: 342px;
+  height: 48px;
+}
+.frame-item {
+  position: absolute;
+  top: 684.5px;
+  left: calc(50% - 196.5px);
+  background-color: #d9d9d9;
+  border: 1px dashed #000;
+  box-sizing: border-box;
+  width: 391px;
+  height: 1px;
+}
+.frame-item-t{
+  position: absolute;
+  top: 830.5px;
+  left: calc(50% - 196.5px);
+  background-color: #d9d9d9;
+  border: 1px dashed #000;
+  box-sizing: border-box;
+  width: 391px;
+  height: 1px;
+}
+.dont-have-a,.dont-have-a-t1,
+.sign-up {
+  position: absolute;
+  font-size: 16px;
+  font-weight: 600;
+}
+.dont-have-a-t1 {
+  top: 850px;
+  left: calc(50% - 189px);
+}
+.dont-have-a {
+  top: 700px;
+  left: calc(50% - 189px);
+}
+.sign-up {
+  height: 41.67%;
+  width: 67.25%;
+  top: 27.08%;
+  left: 16.37%;
+  font-family: "Plus Jakarta Sans";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+.button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 692px;
+  left: calc(50% + 85px);
+  width: 100px;
+  height: 33px;
+}
+.button1-t {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 850px;
+  left: calc(50% + 85px);
+  width: 100px;
+  height: 33px;
+}
+.password {
+  position: absolute;
+  width: 83.92%;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  backdrop-filter: blur(4px);
+}
+.input2 {
+  position: absolute;
+  top: 454px;
+  left: calc(50% - 189px);
+  width: 342px;
+  height: 76px;
+}
+.input3 {
+  position: absolute;
+  top: 538px;
+  left: calc(50% - 189px);
+  width: 342px;
+  height: 76px;
+}
+.input4 {
+  position: absolute;
+  top: 623px;
+  left: calc(50% - 189px);
+  width: 342px;
+  height: 76px;
+}
+
+.input5 {
+  position: absolute;
+  top: 706px;
+  left: calc(50% - 189px);
+  width: 342px;
+  height: 76px;
+}
+
+
+
+.vector-parent {
+  position: relative;
+  background-color: #f6e6ff;
+  width: 100%;
+  height: 1524px;
+  text-align: left;
+  font-size: 14px;
+  color: #2c2c2c;
+  font-family: "Plus Jakarta Sans";
+}

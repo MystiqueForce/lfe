@@ -1,0 +1,42 @@
+.aboutusritika{
+    background-image: url('https://myviewboard.com/blog/wp-content/uploads/2020/08/MP0027-01-scaled.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #f2f2f2;
+  }
+  
+  h1 {
+    font-size: 36px;
+    color: #000000;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  h4 {
+    font-size: 20px;
+    color: #4c4c4c;
+    line-height: 1.5;
+    margin-bottom: 30px;
+  }
+  
+  h4 strong {
+    color: #6b39a8;
+  }
+  
+  .container p {
+    margin-bottom: 20px;
+  }
+  
+  a {
+    color: #6b39a8;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }

@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Caladea:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700&display=swap"); */
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-caladea: Caladea;
+  --font-inter: Inter;
+  --font-roboto: Roboto;
+  --font-plus-jakarta-sans: "Plus Jakarta Sans";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-11xl: 30px;
+  --font-size-6xl: 25px;
+  --font-size-31xl: 50px;
+  --font-size-lg: 18px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-plum: #c4baff;
+  --color-cornflowerblue: #9ba9ff;
+  --color-gray: #2c2c2c;
+  /* --color-cornflowerblue: #9ba9ff; */
+  --color-gainsboro-200: rgba(217, 217, 217, 0);
+
+  /* border radiuses */
+  --br-10xl: 29px;
+  --br-xl: 20px;
+  --br-81xl: 100px;
+  --br-6xl: 25px;
+  --br-21xl: 40px;
+}

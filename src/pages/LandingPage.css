@@ -1,0 +1,766 @@
+.shade-footer-icon {
+  position: absolute;
+  width: 100%;
+  top: 2373px;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 893px;
+  mix-blend-mode: normal;
+}
+
+.shade-attention3-icon,
+.shade-attention4-icon,
+.shade-navbar-icon {
+  position: absolute;
+  background-color: var(--color-cornflowerblue);
+  filter: blur(360px);
+}
+.center-align {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
+.shade-attention4-icon {
+  height: 12.86%;
+  top: 52.49%;
+  bottom: 34.65%;
+  left: -34.06px;
+  width: 641.45px;
+  transform: rotate(10.15deg);
+  transform-origin: 0 0;
+}
+.shade-attention3-icon,
+.shade-navbar-icon {
+  height: 12.85%;
+}
+.shade-attention3-icon {
+  top: 35.14%;
+  right: -158px;
+  bottom: 52.01%;
+  width: 485px;
+}
+.shade-navbar-icon {
+  top: -6.2%;
+  bottom: 93.35%;
+  left: calc(50% - 439px);
+  width: 628px;
+}
+.attention-6-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: -0.21%;
+  bottom: 0;
+  left: 0.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.facebook-icon,
+.instagram-icon,
+.twitter-icon {
+  position: absolute;
+  height: 31.05%;
+  width: 16.97%;
+  top: 67.21%;
+  right: 15.9%;
+  bottom: 1.74%;
+  left: 67.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facebook-icon,
+.instagram-icon {
+  height: 35.62%;
+  width: 15.82%;
+  top: 64.02%;
+  right: 50.23%;
+  bottom: 0.37%;
+  left: 33.95%;
+}
+.facebook-icon {
+  height: 36.44%;
+  width: 16.23%;
+  top: 63.56%;
+  right: 83.77%;
+  bottom: 0;
+  left: 0;
+}
+.social-media1 {
+  position: absolute;
+  height: 33.61%;
+  width: 86.97%;
+  top: 0;
+  left: 13.03%;
+  letter-spacing: 0.09em;
+  text-transform: capitalize;
+  font-weight: 700;
+  display: inline-block;
+}
+.social-media {
+  position: absolute;
+  height: 18.94%;
+  width: 14.69%;
+  top: 21.74%;
+  right: 4.72%;
+  bottom: 59.32%;
+  left: 80.59%;
+}
+.admin-login-button-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-cornflowerblue);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-10xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.login {
+  position: absolute;
+  height: 52.54%;
+  width: 91.24%;
+  top: 23.73%;
+  left: 4.12%;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.09em;
+  text-transform: capitalize;
+  display: flex;
+  font-family: var(--font-caladea);
+  color: var(--color-black);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.admin-login-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 52.21%;
+  width: 74.85%;
+  top: 47.79%;
+  right: 25.15%;
+  bottom: 0;
+  left: 0;
+}
+.for-developersadmin {
+  position: absolute;
+  height: 20.35%;
+  width: 92.21%;
+  top: 0;
+  left: 7.79%;
+  letter-spacing: 0.09em;
+  text-transform: capitalize;
+  font-weight: 700;
+  display: inline-block;
+}
+.admin-login {
+  position: absolute;
+  height: 25.62%;
+  width: 27.41%;
+  top: 21.74%;
+  right: 33.82%;
+  bottom: 52.64%;
+  left: 38.77%;
+}
+.contact-our-offices {
+  margin: 0;
+}
+.london-office {
+  margin-bottom: 0;
+}
+.london-office-india-office-us {
+  margin: 0;
+  padding-left: 27px;
+}
+.contact-our-offices-container {
+  position: absolute;
+  height: 37.87%;
+  width: 14.72%;
+  top: 22.27%;
+  left: 2.5%;
+  font-size: inherit;
+  letter-spacing: 0.09em;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.disclaimer {
+  text-transform: capitalize;
+}
+.span {
+  text-transform: lowercase;
+}
+.disclaimer-learnzy-is-container {
+  position: absolute;
+  height: 13.68%;
+  width: 80.35%;
+  top: 78.81%;
+  left: 9.86%;
+  letter-spacing: 0.09em;
+  display: inline-block;
+}
+.attention-6-item,
+.vector-icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.attention-6-item {
+  height: 0.26%;
+  width: 99.79%;
+  top: 75.51%;
+  right: 0;
+  bottom: 24.23%;
+  left: 0.21%;
+  object-fit: cover;
+}
+.vector-icon {
+  height: 4.31%;
+  width: 1.32%;
+  top: 67.24%;
+  right: 60.76%;
+  bottom: 28.45%;
+  left: 37.92%;
+}
+.all-rights-reserved,
+.copyright {
+  position: absolute;
+  width: 6.6%;
+  top: 66.19%;
+  left: 31.65%;
+  letter-spacing: 0.09em;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.all-rights-reserved {
+  width: 28.89%;
+  top: 66.71%;
+  left: 40.21%;
+}
+.attention-6-inner {
+  position: absolute;
+  height: 0.26%;
+  width: 99.79%;
+  top: 64.61%;
+  right: 0;
+  bottom: 35.13%;
+  left: 0.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.attention-6 {
+  position: absolute;
+  height: 11.64%;
+  width: 100%;
+  top: 88.38%;
+  right: 0.21%;
+  bottom: -0.02%;
+  left: -0.21%;
+}
+.testimonials {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 176.5px);
+  font-size: var(--font-size-31xl);
+  letter-spacing: 0.09em;
+  text-transform: capitalize;
+  font-weight: 700;
+  text-align: left;
+  display: inline-block;
+  width: 337px;
+  height: 56.46px;
+}
+.attention-5-child,
+.attention-5-item {
+  height: 70.17%;
+  width: 22.03%;
+  top: 32.07%;
+  bottom: -2.23%;
+  border-radius: var(--br-6xl);
+  opacity: 0.6;
+}
+.attention-5-child {
+  position: absolute;
+  right: 78.31%;
+  left: -0.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.attention-5-item {
+  right: 39.03%;
+  left: 38.94%;
+}
+.attention-5-inner,
+.attention-5-item,
+.student1-1-icon,
+.student2-1-icon,
+.student3-1-icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.attention-5-inner {
+  height: 70.17%;
+  width: 22.03%;
+  top: 32.07%;
+  right: -0.34%;
+  bottom: -2.23%;
+  left: 78.31%;
+  border-radius: var(--br-6xl);
+  opacity: 0.6;
+}
+.student1-1-icon,
+.student2-1-icon,
+.student3-1-icon {
+  height: 19.02%;
+  width: 6.75%;
+  top: 39.95%;
+  right: 85.99%;
+  bottom: 41.03%;
+  left: 7.26%;
+  border-radius: var(--br-21xl);
+}
+.student2-1-icon,
+.student3-1-icon {
+  width: 5.98%;
+  right: 47.05%;
+  left: 46.97%;
+}
+.student3-1-icon {
+  width: 6.75%;
+  top: 39.4%;
+  right: 7.34%;
+  bottom: 41.58%;
+  left: 85.91%;
+}
+.best-tutoring,
+.great-learning,
+.great-platform,
+.jenny,
+.pepper,
+.tony {
+  position: absolute;
+  height: 5.71%;
+  width: 11.1%;
+  top: 76.63%;
+  left: 5.12%;
+  letter-spacing: 0.09em;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.best-tutoring,
+.great-platform,
+.jenny,
+.pepper,
+.tony {
+  width: 10.16%;
+  left: 44.92%;
+}
+.great-platform,
+.jenny,
+.pepper,
+.tony {
+  width: 11.02%;
+  left: 83.86%;
+}
+.jenny,
+.pepper,
+.tony {
+  width: 3.5%;
+  top: 64.95%;
+  left: 8.97%;
+}
+.jenny,
+.pepper {
+  width: 4.18%;
+  left: 47.91%;
+}
+.pepper {
+  width: 5.12%;
+  left: 86.76%;
+}
+.attention-5 {
+  position: absolute;
+  top: 2378.19px;
+  left: calc(50% - 586px);
+  width: 1171px;
+  height: 358.24px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+}
+.attention-4-child {
+  position: absolute;
+  height: 71.16%;
+  width: calc(100% + 8px);
+  top: 30.32%;
+  right: -4px;
+  bottom: -1.48%;
+  left: -4px;
+  border-radius: var(--br-6xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  opacity: 0.6;
+}
+.partners-icon {
+  position: absolute;
+  height: 19.53%;
+  top: 21.3%;
+  bottom: 59.17%;
+  left: calc(50% - 54.5px);
+  max-height: 100%;
+  width: 108px;
+}
+.attention-4-inner,
+.attention-4-item,
+.google-icon,
+.linkedin-icon,
+.meta-icon {
+  position: absolute;
+  width: 8.44%;
+  top: 302.75px;
+  right: 83.04%;
+  left: 8.52%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 97.35px;
+}
+.attention-4-inner,
+.attention-4-item,
+.linkedin-icon,
+.meta-icon {
+  width: 11.81%;
+  right: 44.14%;
+  left: 44.05%;
+}
+.attention-4-inner,
+.attention-4-item,
+.linkedin-icon {
+  width: 8.44%;
+  right: 10.72%;
+  left: 80.84%;
+}
+.attention-4-inner,
+.attention-4-item {
+  width: 0.17%;
+  top: 293.02px;
+  right: 72.57%;
+  left: 27.26%;
+  height: 116.82px;
+  object-fit: cover;
+}
+.attention-4-inner {
+  right: 33.5%;
+  left: 66.33%;
+}
+.our-industry-partners-container {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 294.5px);
+  letter-spacing: 0.09em;
+  font-weight: 700;
+  display: inline-block;
+  width: 588px;
+  height: 56.46px;
+}
+.attention-4 {
+  position: absolute;
+  height: 16.51%;
+  width: calc(100% - 255px);
+  top: 50.01%;
+  right: 130px;
+  bottom: 33.47%;
+  left: 125px;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+}
+.attention-3-child {
+  position: absolute;
+  height: 103.65%;
+  width: calc(100% + 8px);
+  top: 0;
+  right: -4px;
+  bottom: -3.65%;
+  left: -4px;
+  border-radius: var(--br-6xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.student-icon {
+  position: relative;
+  width: 58.5px;
+  height: 48.26px;
+  flex-shrink: 0;
+}
+.p {
+  margin: 0;
+  text-transform: lowercase;
+}
+.students1 {
+  margin: 0;
+  text-transform: capitalize;
+}
+.students {
+  position: relative;
+  letter-spacing: 0.09em;
+  display: inline-block;
+  width: 84px;
+  height: 44.78px;
+  flex-shrink: 0;
+}
+.att3-student {
+  position: absolute;
+  width: 13.45%;
+  top: 85.39px;
+  right: 76.31%;
+  left: 10.25%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.attention-3-item {
+  position: absolute;
+  width: 0.17%;
+  top: 59.38px;
+  right: 66.71%;
+  left: 33.12%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 100.27px;
+  object-fit: cover;
+}
+.subjects,
+.subjects-icon {
+  position: relative;
+  width: 50px;
+  height: 48.67px;
+  flex-shrink: 0;
+}
+.subjects {
+  letter-spacing: 0.09em;
+  display: inline-block;
+  width: 80px;
+  height: 44.78px;
+}
+.att3-subjects {
+  position: absolute;
+  width: 13.57%;
+  top: 85.18px;
+  right: 43.51%;
+  left: 42.92%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 31px;
+}
+.attention-3-inner {
+  position: absolute;
+  width: 0.17%;
+  top: 59.38px;
+  right: 34.05%;
+  left: 65.79%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 100.27px;
+  object-fit: cover;
+}
+.tutors {
+  position: relative;
+  letter-spacing: 0.09em;
+  display: inline-block;
+  width: 63px;
+  height: 44.78px;
+  flex-shrink: 0;
+}
+.att3-tutors {
+  position: absolute;
+  width: 12.01%;
+  top: 85.39px;
+  right: 12.27%;
+  left: 75.72%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21px;
+}
+.attention-3 {
+  position: absolute;
+  height: 6.71%;
+  width: calc(100% - 249px);
+  top: 39.67%;
+  right: 124px;
+  bottom: 53.62%;
+  left: 125px;
+}
+.learn-with-the-container,
+.take-classes-from-container {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.09em;
+  display: inline-block;
+}
+.learn-with-the-container {
+  white-space: pre-wrap;
+  height: 141.15px;
+}
+.take-classes-from-container {
+  height: 112.92px;
+}
+.att2-texts {
+  position: absolute;
+  width: 100%;
+  top: 292px;
+  right: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 292px;
+}
+.student-image-icon,
+.tutor-image-child,
+.vector-icon1 {
+  position: absolute;
+  height: 34.83%;
+  top: 22.96%;
+  bottom: 42.21%;
+  left: calc(50% - 378.16px);
+  max-height: 100%;
+  width: 166px;
+}
+.tutor-image-child,
+.vector-icon1 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 87px);
+  width: 174px;
+}
+.vector-icon1 {
+  height: 72.46%;
+  top: 14.29%;
+  bottom: 13.25%;
+  left: calc(50% - 64px);
+  width: 128.13px;
+}
+.tutor-image {
+  position: absolute;
+  height: 36.18%;
+  top: 22.28%;
+  bottom: 41.54%;
+  left: calc(50% + 171.84px);
+  width: 174px;
+}
+.whats-in-it-container {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 295.16px);
+  font-size: var(--font-size-31xl);
+  letter-spacing: 0.09em;
+  font-weight: 700;
+}
+.attention-2 {
+  position: absolute;
+  width: 58.58%;
+  top: 692px;
+  right: 20.73%;
+  left: 20.69%;
+  height: 433.15px;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+}
+.landing-page-img1-1-icon {
+  position: absolute;
+  width: 50.6%;
+  top: 0;
+  right: 0;
+  left: 49.4%;
+  border-radius: var(--br-xl) var(--br-81xl) var(--br-xl) var(--br-81xl);
+  max-width: 100%;
+  overflow: hidden;
+  height: 379px;
+  object-fit: cover;
+}
+.students-and-tutors-container,
+.you-can-learn-container {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.09em;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.you-can-learn-container {
+  font-weight: 700;
+  height: 222px;
+}
+.students-and-tutors-container {
+  font-size: var(--font-size-6xl);
+  height: 118px;
+}
+.main-heading {
+  position: absolute;
+  width: 33.17%;
+  top: 0;
+  right: 66.83%;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.attention-1 {
+  position: absolute;
+  width: 86.46%;
+  top: 172px;
+  right: 9.86%;
+  left: 3.68%;
+  height: 379px;
+  font-size: 55px;
+  font-family: var(--font-roboto);
+}
+.landing-page {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 3266px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-caladea);
+}
